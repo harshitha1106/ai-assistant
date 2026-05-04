@@ -50,6 +50,12 @@ ai-assistant/
 4. If yes, the expense is parsed and stored in the SQLite database.
 5. Previous conversation history is used to maintain context and improve responses.
 
+##output
+<img width="985" height="882" alt="image" src="https://github.com/user-attachments/assets/42902b69-1211-41fa-9324-e6cedc3913d5" />
+<img width="984" height="844" alt="image" src="https://github.com/user-attachments/assets/6c141dc3-3a08-485c-8d79-3c5769376326" />
+<img width="960" height="812" alt="image" src="https://github.com/user-attachments/assets/37a7c1bc-90d4-4746-b64a-e217c428e2e4" />
+<img width="970" height="830" alt="image" src="https://github.com/user-attachments/assets/101e0da3-e1ad-4b76-a501-c6b05d83c8d4" />
+
 ## Setup & Installation
 
 1. **Clone the repository**
