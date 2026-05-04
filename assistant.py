@@ -2,9 +2,11 @@ from groq import Groq
 import sqlite3
 import json
 from datetime import datetime
+from dotenv import load_dotenv
+import os
 
-# Setup AI
-client = Groq(api_key="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")
+load_dotenv()
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Setup Database
 conn = sqlite3.connect("expenses.db")
